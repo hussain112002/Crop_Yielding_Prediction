@@ -1,0 +1,21 @@
+Region,Crop Type,Year,Season,Rainfall (mm),Temperature (°C),Humidity (%),Soil Type,Fertilizer Used,Yield (kg/ha),Pesticide Used (kg/ha),Wind Speed (km/h),NDVI Index,Farming Practice
+Punjab,Wheat,2018,Rabi,140,18,75,Loamy,NPK,2700,50,12,0.70,Conventional
+Sindh,Rice,2019,Kharif,220,30,80,Clay,DAP,3100,60,15,0.65,Organic
+KPK,Maize,2019,Kharif,180,27,70,Sandy,Urea,2900,45,10,0.60,Conventional
+Punjab,Wheat,2020,Rabi,160,19,76,Loamy,NPK,2800,55,8,0.75,Organic
+Balochistan,Cotton,2018,Kharif,50,35,45,Clay,Urea,1500,30,18,0.40,Conventional
+Sindh,Sugarcane,2019,Kharif,240,32,85,Clay,NPK,4000,70,14,0.68,Organic
+KPK,Barley,2018,Rabi,100,20,65,Sandy,DAP,2100,35,9,0.58,Conventional
+Punjab,Maize,2021,Kharif,180,28,78,Loamy,NPK,3000,58,11,0.72,Conventional
+Balochistan,Wheat,2020,Rabi,70,16,50,Clay,NPK,2300,44,7,0.67,Organic
+Sindh,Cotton,2021,Kharif,110,36,55,Clay,Urea,2000,37,16,0.43,Conventional
+Punjab,Rice,2019,Kharif,210,29,81,Loamy,DAP,3050,59,13,0.64,Organic
+KPK,Wheat,2020,Rabi,130,17,71,Sandy,NPK,2650,46,10,0.69,Conventional
+Balochistan,Barley,2019,Rabi,60,21,48,Clay,Urea,1700,33,17,0.54,Conventional
+Sindh,Maize,2020,Kharif,215,31,72,Clay,DAP,3150,62,12,0.61,Organic
+Punjab,Cotton,2020,Kharif,120,34,57,Loamy,Urea,1850,36,15,0.47,Organic
+KPK,Rice,2021,Kharif,170,30,74,Sandy,NPK,2750,56,9,0.62,Conventional
+Balochistan,Wheat,2021,Rabi,75,18,49,Clay,Urea,2400,41,8,0.65,Organic
+Punjab,Sugarcane,2019,Kharif,230,33,87,Loamy,NPK,3900,72,13,0.73,Conventional
+Sindh,Barley,2021,Rabi,115,22,69,Clay,DAP,2200,38,11,0.59,Organic
+KPK,Cotton,2018,Kharif,95,37,53,Sandy,Urea,1600,32,18,0.41,Conventional
